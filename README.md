@@ -18,3 +18,5 @@ Este proyecto fue creado con un doble propósito:
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/TU_USUARIO/shelter-scraper.git](https://github.com/TU_USUARIO/shelter-scraper.git)
+
+![Dashboard de Productividad](perritocallejero.PNG)
